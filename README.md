@@ -1,4 +1,4 @@
-# Hey Hey!
+# Hey Hey! 👋
 
 I'm Equinoxtic! Also known as Vertic to a few people whom are my friends!
 
