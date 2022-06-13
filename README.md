@@ -17,8 +17,7 @@ I'm Equinoxtic! Also known as Vertic to a few people whom are my friends!
 ### My favorite IDEs/Code Editors are...
 
 * 🟦 Visual Studio Code
-* 🟧 Sublime Text
-* 🔵 Eclipse
+* 🟩 Vim
 
 <!--
 **Equinoxtic/Equinoxtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
