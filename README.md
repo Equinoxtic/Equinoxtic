@@ -14,7 +14,7 @@ I'm Equinoxtic! Also known as Vertic to a few people whom are my friends!
 * 🍰 Birth date, June 14, 2008
 * ♊ Zodiac Sign, **Gemini**
 * ♂️ Pronouns are **He/Him.**
-* 😁 13 Years Old (About to turn 14!)
+* 😁 14 Years Old!
 
 ### My favorite programming languages are...
 
