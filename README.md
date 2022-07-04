@@ -19,6 +19,11 @@ I'm Equinoxtic! Also known as Vertic to a few people whom are my friends!
 * 🟦 Visual Studio Code
 * 🟩 Vim
 
+
+### Github Stats
+
+![Equinoxtic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Equinoxtic&show_icons=true&theme=dark)
+
 <!--
 **Equinoxtic/Equinoxtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
