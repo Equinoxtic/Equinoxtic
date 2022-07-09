@@ -13,6 +13,8 @@ I'm Equinoxtic! Also known as Vertic to a few people whom are my friends!
 
 ![Equinoxtic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Equinoxtic&show_icons=true&theme=rose_pine)
 
+![Equinoxtic's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Equinoxtic&hide=c&show_icons=true&theme=rose_pine)
+
 <!--
 **Equinoxtic/Equinoxtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
