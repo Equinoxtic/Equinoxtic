@@ -7,7 +7,7 @@ I'm Equinoxtic! Also known as Vertic to a few people whom are my friends!
 
 ## Additional Info
 
-* [faq]()
+* [faq](https://github.com/Equinoxtic/faq)
 * Tsoding ftw
 * I want a coffee
 
