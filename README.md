@@ -1,10 +1,16 @@
-# Hey Hey! <img src="https://cdn.discordapp.com/attachments/798150104158568448/998215838979076206/marlow_happy.jpg" alt="marlow_happy" width="25"/>
+# Hi 
+* I program for fun 🖥
+* I also like to play games 🎮
+* Passionate 15 yr old programmer ✨
 
-I'm Equinoxtic! Also known as Vertic to a few people whom are my friends!
-<img src="https://cdn.discordapp.com/attachments/798150104158568448/998215839188795402/marlow_smile.jpg" alt="marlow_smile" width="15"/>
+  ~ *"CAFFEINE, I NEED CAFFEINE!!! >:("*
 
-### Carrd (All social links included)
-* https://equinoxtic.carrd.co/
+## GitHub Stats
+![Equinoxtic's GitHub stats](https://github-readme-stats.vercel.app/api?username=equinoxtic&show_icons=true&theme=dracula)
+
+## GitHub Activity
+[![Equinoxtic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Equinoxtic&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **Equinoxtic/Equinoxtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
