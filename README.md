@@ -1,9 +1,10 @@
-# Hi 
-* I program for fun 🖥
-* I also like to play games 🎮
-* Passionate 15 yr old programmer ✨
+# Hello there!
 
-  ~ *"CAFFEINE, I NEED CAFFEINE!!! >:("*
+- I program for fun 🖥
+- I also like to play games 🎮
+- Passionate 15 yr old programmer ✨
+
+  ~ *"CAFFEINE, I NEED CAFFEINE!!! >:("* ☕
 
 ## GitHub Stats
 ![Equinoxtic's GitHub stats](https://github-readme-stats.vercel.app/api?username=equinoxtic&show_icons=true&theme=dracula)
