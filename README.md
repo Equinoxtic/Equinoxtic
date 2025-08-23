@@ -2,7 +2,7 @@
 
 - I program for fun 🖥
 - I also like to play games 🎮
-- Passionate 15 yr old programmer ✨
+- Passionate 17 yr old programmer ✨
 
   ~ *"CAFFEINE, I NEED CAFFEINE!!! >:("* ☕
 
