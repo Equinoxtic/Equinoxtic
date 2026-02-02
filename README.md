@@ -1,15 +1,13 @@
-# Hello there!
+# hello there!!! \:3
 
-- I program for fun 🖥
-- I also like to play games 🎮
-- Passionate 17 yr old programmer ✨
+– uhhh I do a lot of coding yeah\
+– gamer certified (also stinky poo poo)\
+– 17 y.o.
 
-  ~ *"CAFFEINE, I NEED CAFFEINE!!! >:("* ☕
+  — *"CAFFEINE, I NEED CAFFEINE!!! >:("*
 
-## GitHub Stats
+## GitHub Statistics & Activity
 ![Equinoxtic's GitHub stats](https://github-readme-stats.vercel.app/api?username=equinoxtic&show_icons=true&theme=dracula)
-
-## GitHub Activity
 [![Equinoxtic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Equinoxtic&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
@@ -19,7 +17,3 @@
 </picture>
 
 ~ *Generated with [Platane/snk](https://github.com/Platane/snk)*
-
-<!--
-**Equinoxtic/Equinoxtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
